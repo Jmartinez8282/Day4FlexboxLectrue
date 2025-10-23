@@ -1,0 +1,22 @@
+body {
+    margin: 10px;
+}
+
+.container {
+    border: 3px solid lightgray;
+    display: flex;
+    flex-direction: column;
+    
+    /* Main(primary) Axes.   Cross(secondary) */
+
+   
+    height: 90vh;
+    
+}
+
+.box {
+    width: 3rem;
+    height: 3rem;
+    background-color: gold;
+    margin: 1rem;
+}
